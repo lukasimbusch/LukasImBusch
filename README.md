@@ -1,7 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=1000&color=F70000&vCenter=true&repeat=false&width=650&height=200&lines=Hi+There%F0%9F%91%8B+My+Name+Is+Lukas+;I+love+Gaming+and+Biking)](https://git.io/typing-svg)
+# 👋 Hey, I'm Lukas (aka **lukasimbusch**)  
 
-<br />
-<br />
-<br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=600&lines=Hey%2C+I'm+Lukas+(aka+lukasimbusch))](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&vCenter=true&multiline=true&repeat=false&width=650&height=200&lines=About+Me)](https://git.io/typing-svg)
+---
+
+### 🚀 About Me  
+- 🧑‍💻 High School Student from Switzerland  
+- 📚 Learning **Python, Java, HTML**
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasimbusch&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasimbusch&layout=compact&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lukasimbusch&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+---
+
+### 📫 Connect with Me  
+📧 Email: *LukasImBusch@proton.me*
