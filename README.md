@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me  
-- 🧑‍💻 High School Student from Switzerland  
+- 🧑‍💻 Student In Switzerland  
 - 📚 Learning **Python, Java, HTML**
 
 ---
