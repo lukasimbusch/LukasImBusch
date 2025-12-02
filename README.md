@@ -11,9 +11,9 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasimbusch&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasimbusch&layout=compact&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lukasimbusch&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasimbusch&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasimbusch&layout=compact&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lukasimbusch&theme=radical&hide_border=true)](https://git.io/streak-stats) 
 
 ---
 
