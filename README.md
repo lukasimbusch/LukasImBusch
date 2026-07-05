@@ -7,7 +7,7 @@
 ### 🚀 About Me  
 - 🧑‍💻 Student In Switzerland  
 - 📚 Learning **Python, Java, HTML**
-- lukasimbusch.ch
+- [lukasimhttps://lukasimbusch.ch/busch.ch](https://lukasimbusch.ch/)
 
 ---
 
